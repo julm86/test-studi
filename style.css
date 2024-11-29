@@ -1,10 +1,11 @@
 h1{
-    color: red;
+    color: rgb(38, 51, 175);
     background-color: #26832a;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p{
     color: #26832a;
+    background-color: #fff;
 }
 
